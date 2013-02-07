@@ -1,0 +1,9 @@
+.parallax_image
+{height: 200px;
+background-image: url('image.jpg');
+background-position-x: top center;
+overflow: hidden;
+width: 640px;
+display: block;
+background-repeat: no-repeat;
+}
